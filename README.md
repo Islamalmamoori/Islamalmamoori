@@ -1,4 +1,4 @@
-# Hey, I'm Islam Al-Mamoori 
+# Hey, I'm Islam Al-Mamoori
 
 ### I build where security, intelligence, and experience meet.
 
@@ -10,43 +10,56 @@ Turning complex systems into technology people actually want to use.
 
 ## What I Build
 
-I’m interested in technology that has a reason to exist.
+My work spans cybersecurity, AI, and product, from secure systems and
+applied research to digital experiences designed around the people who use them.
 
-My work spans AI, cybersecurity, and product, from intelligent systems
-and applied research to digital experiences designed around the people
-who use them.
+I care about building technology that is technically sound, useful in practice,
+and understandable to the people it is built for.
 
 ## Selected Work
 
-###  Xpert
+### Xpert
 **Explainable AI for medical imaging**
 
-An AI-powered platform exploring pneumonia detection from chest X-rays,
-combining deep learning, explainability, and an intuitive clinical experience.
+An AI-powered platform for pneumonia detection and chest X-ray interpretation,
+combining deep learning, explainability, and an intuitive clinical learning experience.
 
 `Explainable AI` `Deep Learning` `Medical Imaging` `Human-Centered Design`
 
 **Published research:** First-author IEEE publication
 
+### AI Incident Triage
+**AI-assisted incident analysis and response**
+
+An incident triage system that uses embeddings, vector similarity search,
+and LLM analysis to surface likely root causes, classify severity, and support
+incident routing.
+
+`Applied AI` `FAISS` `Gemini` `FastAPI` `React`
+
+### Encrypted File Vault
+**Local authenticated file encryption**
+
+A Python file-encryption tool using AES-256-GCM and Argon2id, with authenticated
+metadata, tamper detection, and documented threat-model considerations.
+
+`Python` `AES-GCM` `Argon2id` `Cryptography` `Security Engineering`
+
+### Port & Vulnerability Scanner
+**Network exposure analysis**
+
+A Python and Flask-based network scanner for identifying open ports and
+highlighting potential security exposures through a simple web interface.
+
+`Python` `Sockets` `Flask` `Network Security`
 
 ### PocketPal
 **Financial technology designed around families**
 
-A family-focused financial platform built to make financial literacy and
-money management more intuitive, accessible, and engaging for parents
-and children.
+A family-focused financial platform designed to make financial literacy and
+money management more intuitive and accessible for parents and children.
 
 `Product Engineering` `React Native` `TypeScript` `Supabase` `UX`
-
-### AI Incident Triage
-**Intelligent incident analysis and response**
-
-An AI-assisted incident triage system designed to analyze technical reports,
-surface likely causes, assess severity, and support faster, more informed
-incident response.
-
-`Applied AI` `RAG` `FastAPI` `React`
-
 
 ## Research
 
@@ -64,10 +77,13 @@ interpretable and practical for real-world use.
 `Python` · `TypeScript` · `JavaScript` · `C++`
 
 **Engineering**  
-`React` · `React Native` · `Node.js` · `Express` · `FastAPI` · `Supabase`
+`React` · `React Native` · `Node.js` · `Express` · `FastAPI` · `Flask` · `Supabase`
 
 **AI & Data**  
-`TensorFlow` · `NumPy` · `Pandas` · `MySQL` · `MongoDB`
+`TensorFlow` · `FAISS` · `NumPy` · `Pandas` · `MySQL` · `MongoDB`
+
+**Security**  
+`Network Security` · `Applied Cryptography` · `Secure Systems` · `Threat Modeling`
 
 **Design & Workflow**  
 `Figma` · `Git` · `GitHub` · `Notion`
